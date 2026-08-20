@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://AdeSupriyadi.github.io/docs-mtrldl/sitemap.xml
